@@ -2,7 +2,7 @@
 
 A TikTok clone app using M.E.R.N technologies to implement a fully working fullstack app
 
-The frontend is a React App utalizing HTML and CSS formating to display a TikTok like feed with a Video, song name, descriptin, like and share buttons.
+The frontend is a React App utilizing HTML and CSS formating to display a TikTok like feed with a Video, song name, descriptin, like and share buttons.
 
 To run the application type in Terminal npm start
 
